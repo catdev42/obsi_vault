@@ -37,16 +37,114 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ubuntu/00-vaultbackup.md",
+                "file": "German/Notes Itch Scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-vaultbackup"
+              "title": "Notes Itch Scratch"
+            }
+          },
+          {
+            "id": "af4d383748561f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artist_Hub/Marina Guseva call notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marina Guseva call notes"
+            }
+          },
+          {
+            "id": "7aab4275063a876b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artist_Hub/Marina Guseva call notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marina Guseva call notes"
+            }
+          },
+          {
+            "id": "065c4330143a8baf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artist_Hub/Marina Guseva call notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marina Guseva call notes"
+            }
+          },
+          {
+            "id": "8b20d71c8d704b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artist_Hub/Material Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Material Science"
+            }
+          },
+          {
+            "id": "3425041bdb2b3eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "endings-gender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "endings-gender"
+            }
+          },
+          {
+            "id": "53718355fa510195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German/endings-gender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "endings-gender"
+            }
+          },
+          {
+            "id": "852a093cb6368496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lerning Python/Python Classes for C C++ Programmers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python Classes for C C++ Programmers"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -207,7 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,16 +319,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f011cc84a8dd089",
+  "active": "852a093cb6368496",
   "lastOpenFiles": [
+    "ideas/Py Quiz website.md",
+    "Lerning Python",
+    "Lerning Python/Python Classes for C C++ Programmers.md",
+    "German/endings-gender.md",
+    "Lean Startup Sprint/Lean Canvas.md",
+    "ideas",
+    "Lean Startup Sprint",
+    "Artist_Hub/Material Science.md",
+    "Artist_Hub/Marina Guseva call notes.md",
+    "German/Notes Itch Scratch.md",
+    "German/ieren verbs.md",
+    "Skills and Claudemd/KarpathyClaudeMd.md",
+    "Skills and Claudemd",
+    "Ubuntu/00-vaultbackup.md",
     "Ubuntu/06-obsidian-github-vault.md",
     "Ubuntu/05-vscode-snap-to-deb.md",
     "Ubuntu/04-rename-ubuntu-user.md",
     "Ubuntu/03-github-ssh-key.md",
     "Ubuntu/02-ubuntu-workshop-lessons.md",
     "Ubuntu/01-ubuntu-workshop-lessons.md",
-    "Ubuntu/00-vaultbackup.md",
-    "German/Notes Itch Scratch.md",
     "Ubuntu",
     "Artist_Hub",
     "German",
